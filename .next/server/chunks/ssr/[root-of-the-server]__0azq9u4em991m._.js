@@ -1,3 +1,0 @@
-module.exports=[[3373,(a,b,c)=>{b.exports=a.r(18622)},20491,(a,b,c)=>{b.exports=a.r(3373).vendored["react-rsc"].ReactJsxRuntime},27572,a=>{var b=a.i(20491);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"Food Index BD | Organic Grocery",description:"Shop pure honey, ghee, roasted nuts, dates, and organic groceries from Food Index BD."}])}],18622,(a,b,c)=>{b.exports=a.x("next/dist/compiled/next-server/app-page-turbo.runtime.prod.js",()=>require("next/dist/compiled/next-server/app-page-turbo.runtime.prod.js"))},50645,function(a){a.n(a.i(27572))}];
-
-//# sourceMappingURL=%5Broot-of-the-server%5D__0azq9u4em991m._.js.map
