@@ -1,0 +1,6 @@
+{
+  "name": "Food Index BD",
+  "description": "Conversion-focused organic grocery e-commerce platform for BD featuring raw honey, nuts, ghee, dates, dynamic weight variants, sliding drawer cart, one-page checkout, and admin order fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
